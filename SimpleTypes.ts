@@ -3,8 +3,8 @@ let firstName: string = "typescript";
 console.log(firstName);
 
 // Implicit Type
-let firstName = "typescript";
-console.log(firstName);
+// let firstName = "typescript";
+// console.log(firstName);
 
 // let firstName = "Coffee";
 // firstName = 33;
