@@ -33,10 +33,8 @@
 
 //   console.log(pow(2,3));
 
-// function divide ({dividend, divisor}: {dividend: number, divisor: number}){
-//     return dividend / divisor;
-// }
+function divide ({dividend, divisor}: {dividend: number, divisor: number}){
+    return dividend / divisor;
+}
 
-// function add(a: number, b: number, ...rest: number[]){
-//     return a+b+rest.reduce((p,c)=> p+c,0);
-// }
+ 
