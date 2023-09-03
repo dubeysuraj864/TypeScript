@@ -19,11 +19,11 @@
 //     multiply(23,2))
 
 // the `?` operator here marks parameter `c` as optional
-// function add(a: number, b: number, c?: number) {
-//     return a + b + (c || 0);
-//   }
+function add(a: number, b: number, c?: number) {
+    return a + b + (c || 0);
+  }
 
-// console.log(  add(3,4,5))
+console.log(  add(3,4,5))
 
 // default parameter 
 
